@@ -9,7 +9,7 @@ class OverlayWidget(QtGui.QWidget):
         QtGui.QWidget.__init__(self)
 
         # CONSTANTS
-        self.FONT_SIZE = 25 # The font size of the time displayed
+        self.FONT_SIZE = 35 # The font size of the time displayed
 
         # Timer which fires a signal every 1 second. Used to update the label.
         self.timer = QtCore.QTimer()
