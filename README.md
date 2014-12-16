@@ -8,8 +8,8 @@ A simple screensaver application inspired by http://whatcolourisit.scn9a.org/
 
 ## Dependencies
 
-python >= 2.7
-python-qt4
+1. python >= 2.7
+2. python-qt4
 
 ## License
 
