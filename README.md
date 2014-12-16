@@ -6,7 +6,7 @@ A simple screensaver application inspired by http://whatcolourisit.scn9a.org/
 
     python tscreen.py
 
-## Dependencies
+## Requires
 
 1. python >= 2.7
 2. python-qt4
