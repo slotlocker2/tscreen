@@ -1,6 +1,6 @@
 # tscreen
 
-A simple screensaver inspired by http://whatcolourisit.scn9a.org/
+A simple screensaver application inspired by http://whatcolourisit.scn9a.org/
 
 ## Usage
 
